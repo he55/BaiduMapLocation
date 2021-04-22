@@ -1,0 +1,9 @@
+Package: com.he55.baidumaplocation
+Name: BaiduMapLocation
+Version: 1.3
+Architecture: iphoneos-arm
+Description: Display location for BaiduMap
+Maintainer: he55
+Author: he55
+Section: Tweaks
+Depends: firmware (>= 9.0), mobilesubstrate
